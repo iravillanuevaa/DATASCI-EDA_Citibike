@@ -18,8 +18,8 @@ Link to downloading the dataset: https://s3.amazonaws.com/tripdata/202102-citibi
 
 [ - Bly] Multi: Start station, end station & user type
 
-[] Multi: Trip distance, duration & gender
+[ - Anj] Multi: Trip distance, duration & gender
 
-[] Multi: Average trip distance per unique user, average duration per unique user & user type
+[ - Anj] Multi: Average trip distance per unique user, average duration per unique user & user type
 
 [] Multi: Average trip distance per unique user, average duration per unique user, gender & user type
