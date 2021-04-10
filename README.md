@@ -2,9 +2,9 @@
 Link to downloading the dataset: https://s3.amazonaws.com/tripdata/202102-citibike-tripdata.csv.zip
 
 ## Checklist
-[X - Steph] Bivariate: Trip duration & time of day
+[/ - Steph] Bivariate: Trip duration & time of day
 
-[X - Steph] Bivariate: User type & age
+[/ - Steph] Bivariate: User type & age
 
 [/ - Ira] Bivariate: Start station & user type
 
