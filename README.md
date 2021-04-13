@@ -16,7 +16,7 @@ Link to downloading the dataset: https://s3.amazonaws.com/tripdata/202102-citibi
 
 [/ - Steph] Multi: Start station, end station & unique users
 
-[ - Bly] Multi: Start station, end station & user type
+[/ - Bly] Multi: Start station, end station & user type
 
 [/ - Anj] Multi: Trip distance, duration & gender
 
